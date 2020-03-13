@@ -16,7 +16,7 @@ class Villain extends Person {
                 <h3 id="villainHealth">${this.health}</h3>
                 <span>Weapon:</span>
                 <h4 id="villainWeapon">${this.weapon.name}</h4>
-                <img src="https://cdn-img.fimfiction.net/story/r2ly-1532044513-415076-medium" alt="" id="villainimg">
+                <img src="/voldemort.jpg" alt="" id="villainimg">
             <button class="btn btn-danger" id="attackHero">Attack Hero!</button>
         `
     }

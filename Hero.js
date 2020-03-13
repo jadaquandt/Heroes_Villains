@@ -15,7 +15,7 @@ class Hero extends Person {
                 <h3 id="heroHealth">${this.health}</h3>
                 <span>Weapon:</span>
                 <h4 id="heroWeapon">${this.weapon.name}</h4>
-                <img src="https://miro.medium.com/fit/c/256/256/1*sKos1oKmLWXzkS0wX3uCBQ.png" alt="" id="heroimg">
+                <img src="/harry.jpg" alt="" id="heroimg">
         <button class="btn btn-danger" id="attackVillain">Attack Villain!</button>
     `
     }
